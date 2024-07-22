@@ -1,0 +1,23 @@
+header {
+    width: 50%;
+}
+
+h1 {
+    border: 2px dashed blue;
+    width: 50%;
+    font-size: 3rem;
+    padding: 0.5em;
+}
+
+main {
+    font-size: 1rem;
+}
+
+body {
+    min-height: 100vh;
+}
+
+p {
+    font-size: 2em;
+    width: 40ch;
+}
